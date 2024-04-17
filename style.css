@@ -45,6 +45,13 @@ h1 {
   color: white;
 }
 
+input {
+  float: right;
+  width: 30%;
+  text-align: left;
+  margin-right: 40%;
+}
+
 .grill {
   width: 35%;
   float: right;
@@ -54,9 +61,10 @@ h1 {
 
 .Slogan {
   color: white;
-  text-align: center;
-  max-width: 45%;
-  margin-top: 10%;
-  font-size: 300%;
+  background-color: orangered;
+  width: 100%;
+  margin-top: 25%;
+  font-size: 250%;
   float: inline-end;
+  text-align: center;
 }
