@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 body {
   background-image: url(Grill-Background.jpg);
   background-repeat: no-repeat;
@@ -35,8 +40,13 @@ h1 {
   text-decoration: none;
 }
 
+footer {
+  background-color: grey;
+  height: 60vh;
+}
+
 .topnav a:hover {
-  background-color: white;
+  background-color: #ffd4bf;
   color: black;
 }
 
@@ -61,10 +71,17 @@ input {
 
 .Slogan {
   color: white;
-  background-color: orangered;
-  width: 100%;
+
+  width: 50%;
   margin-top: 25%;
+  margin-bottom: 15%;
   font-size: 250%;
-  float: inline-end;
+
   text-align: center;
+}
+
+.Om_Oss {
+  color: white;
+  width: 40%;
+  font-size: 30px;
 }
