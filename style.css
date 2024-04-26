@@ -3,15 +3,19 @@
   padding: 0;
 }
 
+header {
+  background-color: rgb(54, 51, 51, 0.3);
+}
+
 main {
   width: 100%;
   display: flex;
   justify-content: center;
 }
 body {
-  background-image: url(Grill-Background.jpg);
+  background-image: url(Background1.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100vw;
 }
 
 .Logo {
@@ -43,6 +47,9 @@ h1 {
 footer {
   background-color: grey;
   height: 60vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
 }
 
 .topnav a:hover {
@@ -73,7 +80,7 @@ input {
   color: white;
 
   width: 50%;
-  margin-top: 25%;
+  margin-top: 20%;
   margin-bottom: 15%;
   font-size: 250%;
 
@@ -84,4 +91,14 @@ input {
   color: white;
   width: 40%;
   font-size: 30px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.Produkter {
+  color: white;
+  width: 40%;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20%;
 }
