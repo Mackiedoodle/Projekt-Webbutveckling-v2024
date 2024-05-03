@@ -36,8 +36,8 @@ h1 {
 
 .topnav a {
   float: right;
-  padding: 14px 16px;
-  font-size: 16px;
+  padding: 1%;
+  font-size: 100%;
   background-color: white;
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -90,7 +90,7 @@ input {
 .Om_Oss {
   color: white;
   width: 40%;
-  font-size: 30px;
+  font-size: 200%;
   text-align: center;
   margin-top: 5%;
 }
@@ -98,7 +98,7 @@ input {
 .Produkter {
   color: white;
   width: 40%;
-  font-size: 30px;
+  font-size: 200%;
   text-align: center;
   margin-top: 20%;
 }
