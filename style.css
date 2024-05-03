@@ -94,11 +94,14 @@ input {
   text-align: center;
   margin-top: 5%;
 }
+#GrillBild2 {
+  width: 20%;
+}
 
 .Produkter {
   color: white;
   width: 40%;
   font-size: 200%;
   text-align: center;
-  margin-top: 20%;
+  margin-top: 25%;
 }
