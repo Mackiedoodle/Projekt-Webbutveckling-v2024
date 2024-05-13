@@ -21,7 +21,7 @@ footer {
 }
 
 body {
-  background-image: url(Background1.jpg);
+  background-image: url(../bilder/Background1.jpg);
   background-repeat: no-repeat;
   background-size: 100vw;
 }
@@ -50,7 +50,7 @@ h2 {
 p {
   color: white;
   width: 40%;
-  font-size: 200%;
+  font-size: 100%;
   text-align: center;
   margin-top: 5%;
   height: 5%;
