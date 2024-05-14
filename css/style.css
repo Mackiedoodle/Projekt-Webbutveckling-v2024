@@ -14,7 +14,7 @@ main {
 }
 footer {
   background-color: grey;
-  height: 60vh;
+  height: 120vh;
   display: flex;
   justify-content: center;
   margin-top: 5%;
@@ -44,7 +44,9 @@ h2 {
   font-size: 200%;
   font-family: Georgia, "Times New Roman", Times, serif;
   margin-top: 2%;
+  margin-left: 2%;
   height: 15%;
+  width: 90vh;
 }
 
 p {
@@ -129,13 +131,13 @@ input {
   text-align: center;
 }
 
-.Om_Oss {
-  color: white;
-  width: 40%;
-  font-size: 200%;
+#OmOss {
+  background-color: orangered;
+  height: 40vh;
+  width: 60vh;
   text-align: center;
-  margin-top: 5%;
 }
+
 #GrillBild2 {
   width: 20%;
 }
