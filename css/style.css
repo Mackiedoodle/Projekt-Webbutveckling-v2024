@@ -85,25 +85,27 @@ p {
 /* produktnav */
 .produktnav {
   overflow: hidden;
-  width: 100%;
+  text-align: center;
 }
 
 .produktnav a {
+  display: block;
   padding: 2%;
   font-size: 100%;
   background-color: white;
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-decoration: none;
-
-  margin-left: 12%;
-  margin-top: 5%;
-  height: 100%;
+  margin: 7%;
 }
 
 .produktnav a:hover {
   background-color: #ffd4bf;
   color: black;
+}
+
+.produkt_beskrivning {
+  font-size: 3vh;
 }
 
 input {
